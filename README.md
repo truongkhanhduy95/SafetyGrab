@@ -1,2 +1,1 @@
 # SafetyGrab
-Grab SEA challanges
