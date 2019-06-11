@@ -1,2 +1,2 @@
 # SafetyGrab
-Safety AI for SEA 
+Safety AI for SEA
